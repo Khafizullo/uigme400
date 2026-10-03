@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: d7e451e2dbd993f469edb645aa15c430
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 579
+        width: 376
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d649f28081994e9ede8ad507e2bea
+      internalID: -344530662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 522
+        width: 259
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd2c235e7646cf4b9282936f9e1dc4e
+      internalID: 27191271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_2
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 508
+        width: 356
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987fa82c646634c4facfbd0857175f47
+      internalID: -150719443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_3
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 524
+        width: 382
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f670f93a16f4644825412936266f39
+      internalID: -465822452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 85
+        width: 400
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef7f0fce113f0489fece6fbc8d59b6
+      internalID: -867970117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 58
+        width: 110
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d21ba4f23e55b74bac905bbbc41969a
+      internalID: 1244786966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_6
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 57
+        width: 228
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155384e8c365af444a981587086fab09
+      internalID: 1880077173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_7
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 81
+        width: 391
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011724dbf2fc3514598bd6122d1a56ea
+      internalID: -1570626436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_8
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 79
+        width: 339
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35058cf5714bb41479dc4498695aa857
+      internalID: 404688221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6f854ea8058cd594a86be022f70cd058
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_0: -344530662
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_1: 27191271
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_2: -150719443
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_3: -465822452
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_4: -867970117
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_5: 1244786966
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_6: 1880077173
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_7: -1570626436
+      game-ui-interface-icon-cartoon-vector-element-set-gold-crown-gem-tnt-dynamite-potion-bottle-letter-rpg-loot-props-item-kit-isolated-white-background-achievement-sword-weapon-arcade-app_8: 404688221
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
